@@ -2,6 +2,10 @@
 ## what is git?
 Git is a version control system.
 ## Global Config Commands
+### User Name
+ git config --global user.name "your name"
+
+This command is used to setup your workspace user name globally for all of your git repositories.
 
 ## Stage all changes in the directory
 . git add --all
